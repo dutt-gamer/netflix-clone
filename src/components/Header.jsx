@@ -65,7 +65,7 @@ const Header = () => {
     <div className="absolute w-screen px-8 py-2 z-10 flex items-start justify-between">
       <div>
         <img
-          className="ml-1 w-32 md:w-44 md:ml-20 cursor-pointer"
+          className="ml-1 mt-2 w-24 md:w-35 md:mt-3 md:ml-20 cursor-pointer"
           src={NETFLIX_LOGO}
           alt="Netflix"
         />
